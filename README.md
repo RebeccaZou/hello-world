@@ -1,2 +1,3 @@
 # hello-world
-My first try of GitHub!
+Hi guys,
+I am a girl, I like do web work!
